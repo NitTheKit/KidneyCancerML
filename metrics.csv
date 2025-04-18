@@ -1,0 +1,11 @@
+Algorithms,AUC,Accuracy,Sensitivity,Specificity,F1 Score
+Tensorflow,0.9113,0.8243,0.6522,0.9020,0.8207
+Random Forest,0.9152,0.7973,0.3478,1.0000,0.7613
+Stochastic Gradient Boosting,0.8738,0.8378,0.5217,0.9804,0.8226
+LGBM Classifer,0.8474,0.8243,0.5652,0.9412,0.8142
+Bernoulli Naive Bayes,0.8568,0.7838,0.7826,0.7843,0.7895
+MLP Classifer,0.8892,0.8649,0.7826,0.9020,0.8649
+Adaboost Classifer,0.8380,0.8243,0.6522,0.9020,0.8207
+SVC,0.8934,0.8919,0.8261,0.9216,0.8919
+Logistic Regression,0.9062,0.8919,0.7826,0.9412,0.8905
+K Neighboors Classifer,0.7370,0.7297,0.1739,0.9804,0.6631
